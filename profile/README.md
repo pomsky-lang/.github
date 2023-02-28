@@ -1,7 +1,3 @@
-<table>
-<tr>
-<td>
-
 ### 🌐 [Visit our website](https://pomsky-lang.org/)
 
 ### 📝 [Documentation](https://pomsky-lang.org/docs/get-started/introduction/)
@@ -10,8 +6,7 @@
 
 ### 💬 [Discord](https://discord.gg/uwap2uxMFp)
 
-</td>
-<td>
+### ⚠️ [Report issue](https://github.com/pomsky-lang/pomsky/issues)
 
 ## Repositories
 
@@ -20,7 +15,3 @@
 - [Website](https://github.com/pomsky-lang/website)
 
 - [Playground](https://github.com/pomsky-lang/playground)
-
-</td>
-</tr>
-</table>
