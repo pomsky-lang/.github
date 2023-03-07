@@ -1,17 +1,16 @@
-### 🌐 [Visit our website](https://pomsky-lang.org/)
+#### 🌐 [Visit our website](https://pomsky-lang.org/)
 
-### 📝 [Documentation](https://pomsky-lang.org/docs/get-started/introduction/)
+#### 📝 [Documentation](https://pomsky-lang.org/docs/get-started/introduction/)
 
-### ▶️ [Online playground](https://playground.pomsky-lang.org/)
+#### ▶️ [Online playground](https://playground.pomsky-lang.org/)
 
-### 💬 [Discord](https://discord.gg/uwap2uxMFp)
+#### 💬 [Discord](https://discord.gg/uwap2uxMFp)
 
-### ⚠️ [Report issue](https://github.com/pomsky-lang/pomsky/issues)
+#### ⚠️ [Report issue](https://github.com/pomsky-lang/pomsky/issues)
 
 ## Repositories
 
 - [Language](https://github.com/pomsky-lang/pomsky)
-
 - [Website](https://github.com/pomsky-lang/website)
-
 - [Playground](https://github.com/pomsky-lang/playground)
+- [VS Code extension](https://github.com/pomsky-lang/pomsky-vscode)
