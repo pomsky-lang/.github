@@ -1,16 +1,21 @@
-#### 🌐 [Visit our website](https://pomsky-lang.org/)
+<div align="center">
 
-#### 📝 [Documentation](https://pomsky-lang.org/docs/get-started/introduction/)
+🌐 [Visit our website](https://pomsky-lang.org/) &nbsp;&nbsp;
+📝 [Documentation](https://pomsky-lang.org/docs/get-started/introduction/) &nbsp;&nbsp;
+▶️ [Online playground](https://playground.pomsky-lang.org/) &nbsp;&nbsp;
+💬 [Discord](https://discord.gg/uwap2uxMFp) &nbsp;&nbsp;
+⚠️ [Report issue](https://github.com/pomsky-lang/pomsky/issues)
 
-#### ▶️ [Online playground](https://playground.pomsky-lang.org/)
+</div>
 
-#### 💬 [Discord](https://discord.gg/uwap2uxMFp)
+### Repositories
 
-#### ⚠️ [Report issue](https://github.com/pomsky-lang/pomsky/issues)
+#### 🐶 [Language](https://github.com/pomsky-lang/pomsky)
 
-## Repositories
+#### 🏠 [Website](https://github.com/pomsky-lang/website)
 
-- [Language](https://github.com/pomsky-lang/pomsky)
-- [Website](https://github.com/pomsky-lang/website)
-- [Playground](https://github.com/pomsky-lang/playground)
-- [VS Code extension](https://github.com/pomsky-lang/pomsky-vscode)
+#### 🛝 [Playground](https://github.com/pomsky-lang/playground)
+
+#### 🧑‍💻 [VSCode extension](https://github.com/pomsky-lang/pomsky-vscode)
+
+#### :art: [JavaScript plugin](https://github.com/pomsky-lang/unplugin-pomsky)
